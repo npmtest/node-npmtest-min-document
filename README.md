@@ -1,6 +1,6 @@
 # npmtest-min-document
 
-#### test coverage for  [min-document (v2.19.0)](https://github.com/Raynos/min-document)  [![npm package](https://img.shields.io/npm/v/npmtest-min-document.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-min-document) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-min-document.svg)](https://travis-ci.org/npmtest/node-npmtest-min-document)
+#### basic test coverage for  [min-document (v2.19.0)](https://github.com/Raynos/min-document)  [![npm package](https://img.shields.io/npm/v/npmtest-min-document.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-min-document) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-min-document.svg)](https://travis-ci.org/npmtest/node-npmtest-min-document)
 
 #### A minimal DOM implementation
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-min-document/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-min-document/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-min-document/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-min-document/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-min-document/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-min-document/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-min-document/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-min-document/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-min-document/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-min-document/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-min-document/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-min-document/build/coverage.html/index.html)
 
@@ -109,7 +109,8 @@
             "android-browser/4.2..latest"
         ]
     },
-    "version": "2.19.0"
+    "version": "2.19.0",
+    "bin": {}
 }
 ```
 
